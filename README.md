@@ -48,13 +48,13 @@ Exemplo:
 
 
 ### Listar todos os patrimonios
-text
+
 GET (Mostra todos os patrimonios cadastrados) "http://linklink:link"
 ---
 ![get](../pbe05/fotos/get.png)
 
 ### Listar um patrimonio pelo ID
-text
+
 GET (Mostra o patrimonio com o ID informado) Exemplo: "http://linklink:link/id"
 ---
 ![getwork](../pbe05/fotos/getwork.png)
@@ -66,14 +66,14 @@ GET (Mostra os patrimonios cadastrados, porém neste caso não há o patrimonio 
 ![getfail](../pbe05/fotos/getfail.png)
 
 ### Cadastrar um patrimonio
-text
+
 POST "http://linklink:link/id"
 ---
 ![post](../pbe05/fotos/post.png)
 
 ### Excluir um patrimonio
-text
+
 DELETE "http://linklink:link/id"
 ---
-![delete](../pbe05/fotos/delete.png)
+![delete](../fotos/delete.png)
 
