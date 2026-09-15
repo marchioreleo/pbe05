@@ -27,11 +27,7 @@ Cada item possui:
 * valor;
 * patrimonio;
 
-### Cadastrar um patrimonio
-
-POST /inventario
-
-Exemplo:
+### Exemplo
 
 ```json
 {
