@@ -50,25 +50,25 @@ Exemplo:
 ### Listar todos os patrimonios
 
 GET (Mostra todos os patrimonios cadastrados)
-![get](get.png)
+![get](../pbe05/fotos/get.png)
 
 ### Listar um patrimonio pelo ID
 
 GET (Mostra o patrimonio com o ID informado) Exemplo: "http://linklink:link/id"
-![getwork](getwork.png)
+![getwork](../pbe05/fotos/getwork.png)
 
 ## Patrimonio não encontrado
 
 GET (Mostra os patrimonios cadastrados, porém neste caso não há o patrimonio buscado)
-![getfail](getfail.png)
+![getfail](../pbe05/fotos/getfail.png)
 
-### Atualizar um patrimonio
+### Cadastrar um patrimonio
 
-PUT /inventario/1
-![imagem3](put.png)
+POST "http://linklink:link/id"
+![post](../pbe05/fotos/post.png)
 
 ### Excluir um patrimonio
 
 DELETE "http://linklink:link/id"
-![delete](delete.png)
+![delete](../pbe05/fotos/delete.png)
 
