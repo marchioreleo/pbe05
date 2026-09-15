@@ -36,7 +36,7 @@ const excluirPatrimonio = (req, res) => {
 }
 
 const atualizarPatrimonio = (req, res) => {
-    const id = req.query.id
+    const id = req.params.id
     const dados = req.body
     let status = 0
     patrimonios.forEach((patrimonio) => {

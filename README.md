@@ -1,6 +1,3 @@
-
-
-
 ## Sobre o Projeto 
 Este projeto foi feito com o intuito de simular o back-end de um programa de controle de patrimonios.
 
@@ -70,6 +67,12 @@ GET (Mostra os patrimonios cadastrados, porém neste caso não há o patrimonio 
 POST "http://linklink:link/id"
 ---
 ![post](fotos/post.png)
+
+### Atualizar um patrimonio
+
+PUT "http://linklink:link/id"
+---
+![put](fotos/put.png)
 
 ### Excluir um patrimonio
 
