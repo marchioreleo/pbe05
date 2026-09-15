@@ -1,0 +1,19 @@
+{
+  "name": "registro_patrimonios",
+  "version": "1.0.0",
+  "description": "Sistema de registro de patrimonio",
+  "keywords": [
+    "Patrimonio"
+  ],
+  "license": "ISC",
+  "author": "marchioreleo",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node servidor/server.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  },
+  "devDependencies": {}
+}
